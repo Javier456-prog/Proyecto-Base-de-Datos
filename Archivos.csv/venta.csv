@@ -1,0 +1,11 @@
+id_venta,fecha,producto,total,id_empleado
+6,2026-05-06,Camisa Jordan,35.0,6
+4,2026-05-04,Camisa Reebok,26.5,4
+5,2026-05-05,Camisa Vans,29.0,5
+2,2026-05-02,Camisa Adidas,30.0,2
+3,2026-05-03,Camisa Puma,28.0,3
+7,2026-05-07,Camisa Lacoste,40.0,7
+9,2026-05-09,Camisa Armani,60.0,9
+10,2026-05-10,Camisa Zara,22.0,10
+1,2026-05-01,Camisa Nike,25.5,1
+8,2026-05-08,Camisa Gucci,55.0,8
